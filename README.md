@@ -26,6 +26,8 @@ Open the project in VS Code and run these commands in the terminal.
 
 ### 1. Pull the latest database schema
 
+```open docker
+
 ```powershell
 npx supabase db pull
 ```
